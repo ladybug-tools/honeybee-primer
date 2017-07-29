@@ -1,4 +1,4 @@
-## ![](../../images/icons/Certain_Illuminance.png) Certain Illuminance
+## ![](../../images/icons/Certain_Illuminance.png) Certain Illuminance - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Certain%20Illuminance.py)
 
 ![](../../images/components/Certain_Illuminance.png)
 

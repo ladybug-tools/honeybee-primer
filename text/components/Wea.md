@@ -1,4 +1,4 @@
-## ![](../../images/icons/Wea.png) Wea
+## ![](../../images/icons/Wea.png) Wea - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Wea.py)
 
 ![](../../images/components/Wea.png)
 

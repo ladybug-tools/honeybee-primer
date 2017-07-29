@@ -1,4 +1,4 @@
-## ![](../../images/icons/Maximum_Value.png) Maximum Value
+## ![](../../images/icons/Maximum_Value.png) Maximum Value - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Maximum%20Value.py)
 
 ![](../../images/components/Maximum_Value.png)
 

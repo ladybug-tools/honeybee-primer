@@ -1,4 +1,4 @@
-## ![](../../images/icons/Radiance_Glass_Material_3.png) Radiance Glass Material 3
+## ![](../../images/icons/Radiance_Glass_Material_3.png) Radiance Glass Material 3 - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Radiance%20Glass%20Material%203.py)
 
 ![](../../images/components/Radiance_Glass_Material_3.png)
 

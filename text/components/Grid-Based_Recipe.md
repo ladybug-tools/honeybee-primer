@@ -1,4 +1,4 @@
-## ![](../../images/icons/Grid-Based_Recipe.png) Grid-Based Recipe
+## ![](../../images/icons/Grid-Based_Recipe.png) Grid-Based Recipe - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Grid-Based%20Recipe.py)
 
 ![](../../images/components/Grid-Based_Recipe.png)
 
@@ -8,7 +8,7 @@ Grid-based Recipe. -
 * ##### sky [Required]
 A radiance sky. Find honeybee skies under 02::Daylight::Light Sources.
 * ##### analysisGrids [Required]
-A list or a datatree of points. Each branch of the datatree will be considered as a point group.
+A list of analysis grids.
 * ##### analysisType [Default]
 Analysis type. [0] illuminance(lux), [1] radiation (kwh), [2] luminance (Candela).
 * ##### radiancePar [Default]

@@ -1,4 +1,4 @@
-## ![](../../images/icons/Grid-Based_Three-Phase_Daylight_Recipe.png) Grid-Based Three-Phase Daylight Recipe
+## ![](../../images/icons/Grid-Based_Three-Phase_Daylight_Recipe.png) Grid-Based Three-Phase Daylight Recipe - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Grid-Based%20Three-Phase%20Daylight%20Recipe.py)
 
 ![](../../images/components/Grid-Based_Three-Phase_Daylight_Recipe.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/Honeybee_Window_Surface.png) Honeybee Window Surface
+## ![](../../images/icons/Honeybee_Window_Surface.png) Honeybee Window Surface - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Honeybee%20Window%20Surface.py)
 
 ![](../../images/components/Honeybee_Window_Surface.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/Annual_Solar_Exposure.png) Annual Solar Exposure
+## ![](../../images/icons/Annual_Solar_Exposure.png) Annual Solar Exposure - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Annual%20Solar%20Exposure.py)
 
 ![](../../images/components/Annual_Solar_Exposure.png)
 
@@ -22,7 +22,9 @@ Minimum target area percentage for this grid (default: 10)
 * ##### report
 The execution information, as output and error streams
 * ##### success
-Script variable Python
+Script variable ASE
+* ##### ASE
+Number of hours of annual solar exposure for each test point.
 * ##### perArea
 Percentage area that doesn't meet the target.
 * ##### prblmPts

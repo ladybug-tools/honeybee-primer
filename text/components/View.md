@@ -1,4 +1,4 @@
-## ![](../../images/icons/View.png) View
+## ![](../../images/icons/View.png) View - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_View.py)
 
 ![](../../images/components/View.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/Honeybee_Window_Group.png) Honeybee Window Group
+## ![](../../images/icons/Honeybee_Window_Group.png) Honeybee Window Group - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Honeybee%20Window%20Group.py)
 
 ![](../../images/components/Honeybee_Window_Group.png)
 

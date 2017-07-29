@@ -1,4 +1,4 @@
-## ![](../../images/icons/DC_Grid-based_Daylight_Recipe.png) DC Grid-based Daylight Recipe
+## ![](../../images/icons/DC_Grid-based_Daylight_Recipe.png) DC Grid-based Daylight Recipe - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_DC%20Grid-based%20Daylight%20Recipe.py)
 
 ![](../../images/components/DC_Grid-based_Daylight_Recipe.png)
 
@@ -11,8 +11,8 @@ A sky matrix or a sky vector. Find honeybee skies under 02::Daylight::Light Sour
 A list of Honeybee analysis grids.
 * ##### analysisType [Default]
 Analysis type. [0] illuminance(lux), [1] radiation (kwh), [2] luminance (Candela).
-* ##### radiancePar [Default]
-Radiance parameters for Grid-based analysis. Find Radiance parameters node under 03::Daylight::Recipes.
+* ##### dmtxPar [Default]
+Radiance parameters for Daylight matrix calculation. Find Radiance parameters node under 03::Daylight::Recipe.
 * ##### reuseDmtx [Optional]
 A boolean to indicate if you want the analysis to use the daylight coeff matrix results from the previous study if available.
 

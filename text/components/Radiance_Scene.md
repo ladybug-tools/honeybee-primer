@@ -1,4 +1,4 @@
-## ![](../../images/icons/Radiance_Scene.png) Radiance Scene
+## ![](../../images/icons/Radiance_Scene.png) Radiance Scene - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Radiance%20Scene.py)
 
 ![](../../images/components/Radiance_Scene.png)
 

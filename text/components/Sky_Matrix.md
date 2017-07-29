@@ -1,10 +1,12 @@
-## ![](../../images/icons/Sky_Matrix.png) Sky Matrix
+## ![](../../images/icons/Sky_Matrix.png) Sky Matrix - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Sky%20Matrix.py)
 
 ![](../../images/components/Sky_Matrix.png)
 
 Sky Matrix. -
 
 #### Inputs
+* ##### name [Optional]
+An optional suffix for sky name. The suffix will be added at the end of the standard name. Use this input to customize the new and avoid sky being overwritten by other skymatrix components.
 * ##### north [Optional]
 An angle in degrees between 0-360 to indicate north direction
 * ##### wea [Required]

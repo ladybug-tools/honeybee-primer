@@ -1,4 +1,4 @@
-## ![](../../images/icons/CIE_Standard_Sky.png) CIE Standard Sky
+## ![](../../images/icons/CIE_Standard_Sky.png) CIE Standard Sky - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_CIE%20Standard%20Sky.py)
 
 ![](../../images/components/CIE_Standard_Sky.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/Occupancy_Schedule.png) Occupancy Schedule
+## ![](../../images/icons/Occupancy_Schedule.png) Occupancy Schedule - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Occupancy%20Schedule.py)
 
 ![](../../images/components/Occupancy_Schedule.png)
 

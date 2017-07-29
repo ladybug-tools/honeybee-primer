@@ -1,4 +1,4 @@
-## ![](../../images/icons/Annual_Daylight_Metrics.png) Annual Daylight Metrics
+## ![](../../images/icons/Annual_Daylight_Metrics.png) Annual Daylight Metrics - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Annual%20Daylight%20Metrics.py)
 
 ![](../../images/components/Annual_Daylight_Metrics.png)
 
@@ -8,7 +8,7 @@ Annual Daylight Metrics -
 * ##### analysisGrid [Required]
 An analysis grid output from run Radiance analysis.
 * ##### blindStates [Optional]
-List of state ids for all the sources for input hoys. If you want a source to be removed set the state to -1. ASE must be calculated without dynamic blinds but you can use this option to study the effect of different blind states.
+List of state ids for all the sources for input hoys. If you want a source to be removed set the state to -1. You can use this option to study the effect of different blind states.
 * ##### occSchedule [Default]
 An annual occupancy schedule.
 * ##### threshold [Default]

@@ -1,4 +1,4 @@
-## ![](../../images/icons/HoneybeePlus_Installer.png) HoneybeePlus Installer
+## ![](../../images/icons/HoneybeePlus_Installer.png) HoneybeePlus Installer - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus%20Installer.py)
 
 ![](../../images/components/HoneybeePlus_Installer.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/Sky_Vector.png) Sky Vector
+## ![](../../images/icons/Sky_Vector.png) Sky Vector - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Sky%20Vector.py)
 
 ![](../../images/components/Sky_Vector.png)
 

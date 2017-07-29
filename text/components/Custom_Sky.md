@@ -1,4 +1,4 @@
-## ![](../../images/icons/Custom_Sky.png) Custom Sky
+## ![](../../images/icons/Custom_Sky.png) Custom Sky - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Custom%20Sky.py)
 
 ![](../../images/components/Custom_Sky.png)
 

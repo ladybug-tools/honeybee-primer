@@ -1,4 +1,4 @@
-## ![](../../images/icons/Run_Radiance_Analysis.png) Run Radiance Analysis
+## ![](../../images/icons/Run_Radiance_Analysis.png) Run Radiance Analysis - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Run%20Radiance%20Analysis.py)
 
 ![](../../images/components/Run_Radiance_Analysis.png)
 

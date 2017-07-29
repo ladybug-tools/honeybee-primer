@@ -1,4 +1,4 @@
-## ![](../../images/icons/Sensor_from_analysis_grid.png) Sensor from analysis grid
+## ![](../../images/icons/Sensor_from_analysis_grid.png) Sensor from analysis grid - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Sensor%20from%20analysis%20grid.py)
 
 ![](../../images/components/Sensor_from_analysis_grid.png)
 

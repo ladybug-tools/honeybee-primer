@@ -1,4 +1,4 @@
-## ![](../../images/icons/Image-Based_Recipe.png) Image-Based Recipe
+## ![](../../images/icons/Image-Based_Recipe.png) Image-Based Recipe - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Image-Based%20Recipe.py)
 
 ![](../../images/components/Image-Based_Recipe.png)
 
@@ -8,7 +8,7 @@ Image-based Recipe. -
 * ##### sky [Required]
 A radiance sky. Find honeybee skies under 02::Daylight::Light Sources.
 * ##### views [Required]
-A list or a datatree of points. Each branch of the datatree will be considered as a point group.
+A list of honeybee views. Use view components under 00::create to create a view.
 * ##### analysisType [Default]
 Analysis type. [0] illuminance(lux), [1] radiation (kwh), [2] luminance (Candela).
 * ##### radiancePar [Default]

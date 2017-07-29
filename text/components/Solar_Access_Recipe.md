@@ -1,4 +1,4 @@
-## ![](../../images/icons/Solar_Access_Recipe.png) Solar Access Recipe
+## ![](../../images/icons/Solar_Access_Recipe.png) Solar Access Recipe - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Solar%20Access%20Recipe.py)
 
 ![](../../images/components/Solar_Access_Recipe.png)
 

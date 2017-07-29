@@ -8,3 +8,4 @@
 * ![IMAGE](../../images/icons/Cumulative_Value.png) [Cumulative_Value](../components/Cumulative_Value.md)
 * ![IMAGE](../../images/icons/Hourly_Values.png) [Hourly_Values](../components/Hourly_Values.md)
 * ![IMAGE](../../images/icons/Maximum_Value.png) [Maximum_Value](../components/Maximum_Value.md)
+* ![IMAGE](../../images/icons/Sensor_Hourly_Values.png) [Sensor_Hourly_Values](../components/Sensor_Hourly_Values.md)

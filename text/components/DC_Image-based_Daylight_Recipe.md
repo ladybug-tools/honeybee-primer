@@ -1,4 +1,4 @@
-## ![](../../images/icons/DC_Image-based_Daylight_Recipe.png) DC Image-based Daylight Recipe
+## ![](../../images/icons/DC_Image-based_Daylight_Recipe.png) DC Image-based Daylight Recipe - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_DC%20Image-based%20Daylight%20Recipe.py)
 
 ![](../../images/components/DC_Image-based_Daylight_Recipe.png)
 

@@ -1,4 +1,4 @@
-## ![](../../images/icons/Dynamic_Blinds_Schedule.png) Dynamic Blinds Schedule
+## ![](../../images/icons/Dynamic_Blinds_Schedule.png) Dynamic Blinds Schedule - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Dynamic%20Blinds%20Schedule.py)
 
 ![](../../images/components/Dynamic_Blinds_Schedule.png)
 
@@ -7,8 +7,8 @@ Dynamic Blinds Schedule -
 #### Inputs
 * ##### sensor [Required]
 A single sensor from the analsysi Grid.
-* ##### blindStates [Default]
-Suggested window groups states combinations. Default is the longest combination between all the window groups.
+* ##### blindCombs [Default]
+Suggested states combinations for sources. Default is the longest combination between all the window groups. Put each state as a tuple. Check the sensor output for sources and possible states. For instance (0, 0, 1) indicates the first and second window groups are at state 0 and the third window group is at state 1.
 * ##### logic [Default]
 Blinds logic. You can use ill, ill_dir and h(our) as input values. Default is ill > 3000. You can also overwrite the logic by opening the components and edit 'checkLogic' function.
 * ##### data [Optional]

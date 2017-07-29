@@ -1,4 +1,4 @@
-## ![](../../images/icons/Analysis_Grid.png) Analysis Grid
+## ![](../../images/icons/Analysis_Grid.png) Analysis Grid - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Analysis%20Grid.py)
 
 ![](../../images/components/Analysis_Grid.png)
 

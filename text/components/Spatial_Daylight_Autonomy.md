@@ -1,4 +1,4 @@
-## ![](../../images/icons/Spatial_Daylight_Autonomy.png) Spatial Daylight Autonomy
+## ![](../../images/icons/Spatial_Daylight_Autonomy.png) Spatial Daylight Autonomy - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/src/HoneybeePlus_Spatial%20Daylight%20Autonomy.py)
 
 ![](../../images/components/Spatial_Daylight_Autonomy.png)
 
