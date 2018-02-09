@@ -21,12 +21,12 @@ Set to True to write the files to the folder.
 Set to True to run the analysis. You can only run the analysis if _write is also set to True.
 
 #### Outputs
-* ##### readMe!
+* ##### report
 Reports, errors, warnings, etc.
 * ##### legendPar
 Suggested legend parameters based on the recipe.
-* ##### results
-Results of the analysis. Results can be a list of images or a list of grids based on the type of anlaysis.
+* ##### outputs
+Outputs of the analysis. Outputs can be a list of image collections or a list of analysis grids.
 
 
 [Check Hydra Example Files for Run Radiance Analysis](https://hydrashare.github.io/hydra/index.html?keywords=HoneybeePlus_Run Radiance Analysis)

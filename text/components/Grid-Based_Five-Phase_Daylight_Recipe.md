@@ -12,13 +12,13 @@ A list of Honeybee analysis grids.
 * ##### analysisType [Default]
 Analysis type. [0] illuminance(lux), [1] radiation (kwh), [2] luminance (Candela).
 * ##### vmtxPar [Default]
-Script variable threePhaseRecipe
+RfluxMtx parameters for view coefficient calculation.
 * ##### dmtxPar [Default]
-Script variable threePhaseRecipe
+RfluxMtx parameters for daylight coefficient calculation.
 * ##### reuseVmtx [Optional]
-Script variable annualRecipe
+A boolean to indicate if you want the analysis to use the view coeff matrix results from the previous study if available.
 * ##### reuseDmtx [Optional]
-Script variable threePhaseRecipe
+A boolean to indicate if you want the analysis to use the daylight coeff matrix results from the previous study if available (default: False).
 
 #### Outputs
 * ##### analysisRecipe

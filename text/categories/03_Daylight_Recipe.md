@@ -1,4 +1,5 @@
 #### Component list:
+* ![IMAGE](../../images/icons/Annual_Daylight_Recipe.png) [Annual_Daylight_Recipe](../components/Annual_Daylight_Recipe.md)
 * ![IMAGE](../../images/icons/Annual_Radiation_Recipe.png) [Annual_Radiation_Recipe](../components/Annual_Radiation_Recipe.md)
 * ![IMAGE](../../images/icons/Daylight_Factor_Recipe.png) [Daylight_Factor_Recipe](../components/Daylight_Factor_Recipe.md)
 * ![IMAGE](../../images/icons/Solar_Access_Recipe.png) [Solar_Access_Recipe](../components/Solar_Access_Recipe.md)

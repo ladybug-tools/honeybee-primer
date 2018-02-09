@@ -5,9 +5,7 @@
 This component downloads honeybee libraries from github to: C:\Users\%USERNAME%\AppData\Roaming\McNeel\Rhinoceros\5.0\scripts -
 
 #### Inputs
-* ##### install [Required]
-Optional path to load butterfly libraries instead of the installed version
-* ##### update [Optional]
+* ##### update [Required]
 Optional boolean to update honeybee even if you have it already installed.
 
 #### Outputs

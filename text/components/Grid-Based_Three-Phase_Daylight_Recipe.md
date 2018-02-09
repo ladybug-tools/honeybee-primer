@@ -18,7 +18,7 @@ RfluxMtx parameters for daylight coefficient calculation.
 * ##### reuseVmtx [Optional]
 A boolean to indicate if you want the analysis to use the view coeff matrix results from the previous study if available.
 * ##### reuseDmtx [Optional]
-A boolean to indicate if you want the analysis to use the daylight coeff matrix results from the previous study if available.
+A boolean to indicate if you want the analysis to use the daylight coeff matrix results from the previous study if available (default: False).
 
 #### Outputs
 * ##### analysisRecipe

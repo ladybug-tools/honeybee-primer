@@ -31,6 +31,8 @@ Percentage area that doesn't meet the target.
 A list of problematic test points.
 * ##### prblmHrs
 Problematic hours for each point.
+* ##### legendPar
+Script variable ASE
 
 
 [Check Hydra Example Files for Annual Solar Exposure](https://hydrashare.github.io/hydra/index.html?keywords=HoneybeePlus_Annual Solar Exposure)

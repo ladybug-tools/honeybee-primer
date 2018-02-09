@@ -11,10 +11,10 @@ A sky matrix or a sky vector. Find honeybee skies under 02::Daylight::Light Sour
 A list of Honeybee views.
 * ##### analysisType [Default]
 Analysis type. [0] illuminance(lux), [1] radiation (kwh), [2] luminance (Candela).
-* ##### radiancePar [Default]
+* ##### dmtxPar [Default]
 Radiance parameters for Image-based analysis. Find Radiance parameters node under 03::Daylight::Recipes.
 * ##### reuseDmtx [Optional]
-A boolean to indicate if you want the analysis to use the daylight coeff matrix results from the previous study if available.
+A boolean to indicate if you want the analysis to use the daylight coeff matrix results from the previous study if available (default: False).
 
 #### Outputs
 * ##### analysisRecipe

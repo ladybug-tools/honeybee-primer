@@ -2,7 +2,7 @@
 
 ![](../../images/components/Radiance_Parameters_Grid-based.png)
 
-Radiance parameters library for analysis recipes. Check here for more details: http://radsite.lbl.gov/radiance/refer/Notes/rpict_options.html Read more about the parameters at: http://daysim.ning.com/ Here is my favorite presentation by John Mardaljevic: http://radiance-online.org/community/workshops/2011-berkeley-ca/presentations/day1/JM_AmbientCalculation.pdf -
+Radiance parameters library for analysis recipes. Check here for more details: http://radsite.lbl.gov/radiance/refer/Notes/rpict_options.html Here is my favorite presentation by John Mardaljevic: http://radiance-online.org/community/workshops/2011-berkeley-ca/presentations/day1/JM_AmbientCalculation.pdf -
 
 #### Inputs
 * ##### complexity [Default]

@@ -29,6 +29,8 @@ Useful daylight illuminance. The percentage of time that illuminace falls betwe
 The percentage of time that illuminace falls less than minimum threshold.
 * ##### UDIMore
 The percentage of time that illuminace falls more than maximum threshold.
+* ##### legendPar
+Script variable annualMetrics
 
 
 [Check Hydra Example Files for Annual Daylight Metrics](https://hydrashare.github.io/hydra/index.html?keywords=HoneybeePlus_Annual Daylight Metrics)

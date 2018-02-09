@@ -12,7 +12,7 @@ A list of Honeybee analysis grids.
 * ##### dmtxPar [Default]
 Radiance parameters for Daylight matrix calculation. Find Radiance parameters node under 03::Daylight::Recipe.
 * ##### reuseDmtx [Optional]
-A boolean to indicate if you want the analysis to use the daylight coeff matrix results from the previous study if available.
+A boolean to indicate if you want the analysis to use the daylight coeff matrix results from the previous study if available (default: False).
 
 #### Outputs
 * ##### analysisRecipe
