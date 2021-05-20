@@ -2,7 +2,7 @@
 
 ![](../../images/components/Deconstruct_Object.png)
 
-![](../../images/icons/Deconstruct_Object.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Deconstruct%20Object.py)
+![](../../images/icons/Deconstruct_Object.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Deconstruct%20Object.py)
 
 
 Deconstruct any Honeybee geometry object into all of its constituent Honeybee objects. 

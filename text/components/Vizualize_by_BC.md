@@ -2,7 +2,7 @@
 
 ![](../../images/components/Vizualize_by_BC.png)
 
-![](../../images/icons/Vizualize_by_BC.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Vizualize%20by%20BC.py)
+![](../../images/icons/Vizualize_by_BC.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Vizualize%20by%20BC.py)
 
 
 Visualize room geometry in the Rhino scene organized by boundary condition. 

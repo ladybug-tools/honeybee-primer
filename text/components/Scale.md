@@ -2,7 +2,7 @@
 
 ![](../../images/components/Scale.png)
 
-![](../../images/icons/Scale.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Scale.py)
+![](../../images/icons/Scale.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Scale.py)
 
 
 Scale any Honeybee geometry object or a Model by a factor. 

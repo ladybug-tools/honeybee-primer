@@ -2,7 +2,7 @@
 
 ![](../../images/components/Add_Subface.png)
 
-![](../../images/icons/Add_Subface.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Add%20Subface.py)
+![](../../images/icons/Add_Subface.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Add%20Subface.py)
 
 
 Add a Honeybee Aperture or Door to a parent Face or Room. 

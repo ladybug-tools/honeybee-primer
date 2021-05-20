@@ -2,7 +2,7 @@
 
 ![](../../images/components/Dump_Compressed_Objects.png)
 
-![](../../images/icons/Dump_Compressed_Objects.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Dump%20Compressed%20Objects.py)
+![](../../images/icons/Dump_Compressed_Objects.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Dump%20Compressed%20Objects.py)
 
 
 Dump any honeybee object to a compressed .pkl file. You can use "HB Load Compressed Objects" component to load the objects from the file back into Grasshopper. 

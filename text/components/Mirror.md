@@ -2,7 +2,7 @@
 
 ![](../../images/components/Mirror.png)
 
-![](../../images/icons/Mirror.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Mirror.py)
+![](../../images/icons/Mirror.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Mirror.py)
 
 
 Mirror any Honeybee geometry object or a Model across a plane. 

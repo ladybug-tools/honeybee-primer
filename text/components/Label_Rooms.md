@@ -2,7 +2,7 @@
 
 ![](../../images/components/Label_Rooms.png)
 
-![](../../images/icons/Label_Rooms.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Label%20Rooms.py)
+![](../../images/icons/Label_Rooms.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Label%20Rooms.py)
 
 
 Lablel Honeybee rooms with their attributes in the Rhino scene. 

@@ -2,7 +2,7 @@
 
 ![](../../images/components/Intersect_Solids.png)
 
-![](../../images/icons/Intersect_Solids.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Intersect%20Solids.py)
+![](../../images/icons/Intersect_Solids.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Intersect%20Solids.py)
 
 
 Take a list of closed breps (polysurfaces) that you intend to turn into Rooms and split their Faces to ensure that there are matching faces between each of the adjacent rooms. 

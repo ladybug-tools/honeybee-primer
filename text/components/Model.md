@@ -2,7 +2,7 @@
 
 ![](../../images/components/Model.png)
 
-![](../../images/icons/Model.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Model.py)
+![](../../images/icons/Model.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Model.py)
 
 
 Create a Honeybee Model, which can be sent for simulation. 

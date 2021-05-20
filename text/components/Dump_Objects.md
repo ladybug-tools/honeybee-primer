@@ -2,7 +2,7 @@
 
 ![](../../images/components/Dump_Objects.png)
 
-![](../../images/icons/Dump_Objects.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Dump%20Objects.py)
+![](../../images/icons/Dump_Objects.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Dump%20Objects.py)
 
 
 Dump any honeybee object to a JSON file. You can use "HB Load Objects" component to load the objects from the file back into Grasshopper. 

@@ -2,7 +2,7 @@
 
 ![](../../images/components/Facade_Parameters.png)
 
-![](../../images/icons/Facade_Parameters.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Facade%20Parameters.py)
+![](../../images/icons/Facade_Parameters.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Facade%20Parameters.py)
 
 
 Generate lists of facadce properties ordanized by the four primary cardinal directions. 

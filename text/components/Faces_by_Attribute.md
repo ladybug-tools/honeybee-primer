@@ -2,7 +2,7 @@
 
 ![](../../images/components/Faces_by_Attribute.png)
 
-![](../../images/icons/Faces_by_Attribute.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Faces%20by%20Attribute.py)
+![](../../images/icons/Faces_by_Attribute.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Faces%20by%20Attribute.py)
 
 
 Separate and group Honeybee Faces, Apertures, Doors and Shades by any attribute that the objects possess. 

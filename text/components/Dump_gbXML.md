@@ -2,7 +2,7 @@
 
 ![](../../images/components/Dump_gbXML.png)
 
-![](../../images/icons/Dump_gbXML.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Dump%20gbXML.py)
+![](../../images/icons/Dump_gbXML.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Dump%20gbXML.py)
 
 
 Dump a Honyebee Model to a gbXML file. 

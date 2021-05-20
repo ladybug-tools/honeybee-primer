@@ -2,7 +2,7 @@
 
 ![](../../images/components/Label_Faces.png)
 
-![](../../images/icons/Label_Faces.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Label%20Faces.py)
+![](../../images/icons/Label_Faces.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Label%20Faces.py)
 
 
 Lablel Honeybee faces and sub-faces with their attributes in the Rhino scene. 

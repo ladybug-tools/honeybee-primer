@@ -2,7 +2,7 @@
 
 ![](../../images/components/Custom_Ground.png)
 
-![](../../images/icons/Custom_Ground.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Custom%20Ground.py)
+![](../../images/icons/Custom_Ground.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Custom%20Ground.py)
 
 
 Set the boundary conditions of Rooms to be Ground vs. Outdoors using a surface or polysurface that represents the ground. 

@@ -2,7 +2,7 @@
 
 ![](../../images/components/Vizualize_Wireframe.png)
 
-![](../../images/icons/Vizualize_Wireframe.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Vizualize%20Wireframe.py)
+![](../../images/icons/Vizualize_Wireframe.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Vizualize%20Wireframe.py)
 
 
 Quickly preview any Honeybee geometry object as a wire frame within the Rhino scene, including all sub-faces and assigned shades. 

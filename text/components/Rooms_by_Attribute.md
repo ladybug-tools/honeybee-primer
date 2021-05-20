@@ -2,7 +2,7 @@
 
 ![](../../images/components/Rooms_by_Attribute.png)
 
-![](../../images/icons/Rooms_by_Attribute.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Rooms%20by%20Attribute.py)
+![](../../images/icons/Rooms_by_Attribute.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Rooms%20by%20Attribute.py)
 
 
 Separate and group honeybee Rooms by any attribute that the room possesses. 

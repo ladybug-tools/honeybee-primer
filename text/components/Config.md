@@ -2,7 +2,7 @@
 
 ![](../../images/components/Config.png)
 
-![](../../images/icons/Config.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Config.py)
+![](../../images/icons/Config.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Config.py)
 
 
 Check the local configuration of the engines and data sets used by the honeybee plugin. This is useful for verifying that everything has been installed correctly and that the engines are configured as expected. 

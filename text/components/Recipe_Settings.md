@@ -2,7 +2,7 @@
 
 ![](../../images/components/Recipe_Settings.png)
 
-![](../../images/icons/Recipe_Settings.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Recipe%20Settings.py)
+![](../../images/icons/Recipe_Settings.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Recipe%20Settings.py)
 
 
 Specify settings for the run of a recipe, including the number of workers/CPUs, the project folder, and other settings. 

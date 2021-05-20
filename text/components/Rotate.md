@@ -2,7 +2,7 @@
 
 ![](../../images/components/Rotate.png)
 
-![](../../images/icons/Rotate.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Rotate.py)
+![](../../images/icons/Rotate.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Rotate.py)
 
 
 Rotate any Honeybee geometry object or a Model by an angle. 

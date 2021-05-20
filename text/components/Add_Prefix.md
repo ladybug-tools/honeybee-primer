@@ -2,7 +2,7 @@
 
 ![](../../images/components/Add_Prefix.png)
 
-![](../../images/icons/Add_Prefix.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Add%20Prefix.py)
+![](../../images/icons/Add_Prefix.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Add%20Prefix.py)
 
 
 Change the display name and identifier of this object and all child objects by inserting a prefix. 

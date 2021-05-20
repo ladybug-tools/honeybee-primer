@@ -2,7 +2,7 @@
 
 ![](../../images/components/Color_Face_Attributes.png)
 
-![](../../images/icons/Color_Face_Attributes.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Color%20Face%20Attributes.py)
+![](../../images/icons/Color_Face_Attributes.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Color%20Face%20Attributes.py)
 
 
 Color Honeybee Faces, Apertures, Doors and Shades in the Rhino scene using their attributes. 

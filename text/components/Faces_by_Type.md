@@ -2,7 +2,7 @@
 
 ![](../../images/components/Faces_by_Type.png)
 
-![](../../images/icons/Faces_by_Type.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Faces%20by%20Type.py)
+![](../../images/icons/Faces_by_Type.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Faces%20by%20Type.py)
 
 
 Separate the faces/sub-faces of honeybee Rooms, Faces, Apertures, Doors, or Shades by object and face type. 
