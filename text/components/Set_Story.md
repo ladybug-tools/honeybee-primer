@@ -2,7 +2,7 @@
 
 ![](../../images/components/Set_Story.png)
 
-![](../../images/icons/Set_Story.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Set%20Story.py)
+![](../../images/icons/Set_Story.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Set%20Story.py)
 
 
 Set text for the story identifier for honeybee Rooms. 

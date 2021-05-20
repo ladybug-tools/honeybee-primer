@@ -2,7 +2,7 @@
 
 ![](../../images/components/Face.png)
 
-![](../../images/icons/Face.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Face.py)
+![](../../images/icons/Face.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Face.py)
 
 
 Create Honeybee Face 

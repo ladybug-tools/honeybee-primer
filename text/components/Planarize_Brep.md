@@ -2,7 +2,7 @@
 
 ![](../../images/components/Planarize_Brep.png)
 
-![](../../images/icons/Planarize_Brep.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Planarize%20Brep.py)
+![](../../images/icons/Planarize_Brep.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Planarize%20Brep.py)
 
 
 Planarize Rhino breps in a manner that allows control over the meshing process. 

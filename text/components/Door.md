@@ -2,7 +2,7 @@
 
 ![](../../images/components/Door.png)
 
-![](../../images/icons/Door.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Door.py)
+![](../../images/icons/Door.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Door.py)
 
 
 Create Honeybee Door 

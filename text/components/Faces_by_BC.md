@@ -2,7 +2,7 @@
 
 ![](../../images/components/Faces_by_BC.png)
 
-![](../../images/icons/Faces_by_BC.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Faces%20by%20BC.py)
+![](../../images/icons/Faces_by_BC.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Faces%20by%20BC.py)
 
 
 Separate the faces/sub-faces of honeybee Rooms, Faces, Apertures, Doors or Shades by boundary condition. 

@@ -2,7 +2,7 @@
 
 ![](../../images/components/Properties_by_Guide_Surface.png)
 
-![](../../images/icons/Properties_by_Guide_Surface.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Properties%20by%20Guide%20Surface.py)
+![](../../images/icons/Properties_by_Guide_Surface.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Properties%20by%20Guide%20Surface.py)
 
 
 Set the properties of room Faces using (a) guide surface(s) or polysurface(s). 

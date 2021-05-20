@@ -2,7 +2,7 @@
 
 ![](../../images/components/Object_to_String.png)
 
-![](../../images/icons/Object_to_String.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Object%20to%20String.py)
+![](../../images/icons/Object_to_String.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Object%20to%20String.py)
 
 
 Serialize any honeybee object to a JSON text string. You can use "HB String to Object" component to load the objects from the file back. 

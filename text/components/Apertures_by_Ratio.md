@@ -2,7 +2,7 @@
 
 ![](../../images/components/Apertures_by_Ratio.png)
 
-![](../../images/icons/Apertures_by_Ratio.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Apertures%20by%20Ratio.py)
+![](../../images/icons/Apertures_by_Ratio.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Apertures%20by%20Ratio.py)
 
 
 Add apertures to a Honeybee Face or Room given a ratio of aperture area to face area. 

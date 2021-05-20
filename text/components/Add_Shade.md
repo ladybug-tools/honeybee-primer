@@ -2,7 +2,7 @@
 
 ![](../../images/components/Add_Shade.png)
 
-![](../../images/icons/Add_Shade.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Add%20Shade.py)
+![](../../images/icons/Add_Shade.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Add%20Shade.py)
 
 
 Add a Honeybee Shades to an Aperture, Door, Face or Room. 

@@ -2,7 +2,7 @@
 
 ![](../../images/components/Deconstruct_Model.png)
 
-![](../../images/icons/Deconstruct_Model.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Deconstruct%20Model.py)
+![](../../images/icons/Deconstruct_Model.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Deconstruct%20Model.py)
 
 
 Deconstruct a Honeybee Model object into all of its constituent Honeybee objects. 

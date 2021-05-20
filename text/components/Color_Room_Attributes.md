@@ -2,7 +2,7 @@
 
 ![](../../images/components/Color_Room_Attributes.png)
 
-![](../../images/icons/Color_Room_Attributes.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Color%20Room%20Attributes.py)
+![](../../images/icons/Color_Room_Attributes.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Color%20Room%20Attributes.py)
 
 
 Color Honeybee rooms in the Rhino scene using their attributes. 

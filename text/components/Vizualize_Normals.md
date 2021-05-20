@@ -2,7 +2,7 @@
 
 ![](../../images/components/Vizualize_Normals.png)
 
-![](../../images/icons/Vizualize_Normals.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Vizualize%20Normals.py)
+![](../../images/icons/Vizualize_Normals.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Vizualize%20Normals.py)
 
 
 Get aligned points and vectors to preview the normal direction of any Honeybee geometry object the Rhino scene, including all sub-faces and assigned shades. 

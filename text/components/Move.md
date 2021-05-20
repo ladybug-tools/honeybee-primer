@@ -2,7 +2,7 @@
 
 ![](../../images/components/Move.png)
 
-![](../../images/icons/Move.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Move.py)
+![](../../images/icons/Move.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Move.py)
 
 
 Move any Honeybee geometry object or a Model object along a vector. 

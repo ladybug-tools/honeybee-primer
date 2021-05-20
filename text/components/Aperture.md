@@ -2,7 +2,7 @@
 
 ![](../../images/components/Aperture.png)
 
-![](../../images/icons/Aperture.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Aperture.py)
+![](../../images/icons/Aperture.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Aperture.py)
 
 
 Create Honeybee Aperture 

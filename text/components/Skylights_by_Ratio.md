@@ -2,7 +2,7 @@
 
 ![](../../images/components/Skylights_by_Ratio.png)
 
-![](../../images/icons/Skylights_by_Ratio.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Skylights%20by%20Ratio.py)
+![](../../images/icons/Skylights_by_Ratio.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Skylights%20by%20Ratio.py)
 
 
 Add skylight apertures to a Honeybee Face or Room given a ratio of aperture area to face area. 

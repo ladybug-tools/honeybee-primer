@@ -2,7 +2,7 @@
 
 ![](../../images/components/Rooms_by_Floor_Height.png)
 
-![](../../images/icons/Rooms_by_Floor_Height.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Rooms%20by%20Floor%20Height.py)
+![](../../images/icons/Rooms_by_Floor_Height.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Rooms%20by%20Floor%20Height.py)
 
 
 Separate and group honeybee rooms with the same average floor height. 

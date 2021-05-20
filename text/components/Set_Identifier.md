@@ -2,7 +2,7 @@
 
 ![](../../images/components/Set_Identifier.png)
 
-![](../../images/icons/Set_Identifier.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Set%20Identifier.py)
+![](../../images/icons/Set_Identifier.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Set%20Identifier.py)
 
 
 THIS COMPONENT IS INTENDED FOR ADVANCED USERS WHO UNDERSTAND THAT IDENTIFERS SHOULD BE UNIQUE AND THAT, TO SET THEM OTHERWISE CAN HAVE UNINTENDED CONSEQUENCES. 

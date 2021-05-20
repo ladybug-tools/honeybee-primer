@@ -2,7 +2,7 @@
 
 ![](../../images/components/Extruded_Border_Shades.png)
 
-![](../../images/icons/Extruded_Border_Shades.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Extruded%20Border%20Shades.py)
+![](../../images/icons/Extruded_Border_Shades.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Extruded%20Border%20Shades.py)
 
 
 Add extruded border Shades to all the outdoor Apertures of an input Room, Face or Aperture. 

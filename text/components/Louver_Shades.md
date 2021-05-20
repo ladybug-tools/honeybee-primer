@@ -2,7 +2,7 @@
 
 ![](../../images/components/Louver_Shades.png)
 
-![](../../images/icons/Louver_Shades.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Louver%20Shades.py)
+![](../../images/icons/Louver_Shades.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Louver%20Shades.py)
 
 
 Add louverd Shades, overhangs or fins to all the outdoor Apertures of an input Room, Face or Aperture. 

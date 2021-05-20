@@ -2,7 +2,7 @@
 
 ![](../../images/components/Load_gbXML.png)
 
-![](../../images/icons/Load_gbXML.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Load%20gbXML.py)
+![](../../images/icons/Load_gbXML.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Load%20gbXML.py)
 
 
 Load a gbXML, OSM, or IDF file as a Honeybee Model. 

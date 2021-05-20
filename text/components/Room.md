@@ -2,7 +2,7 @@
 
 ![](../../images/components/Room.png)
 
-![](../../images/icons/Room.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Room.py)
+![](../../images/icons/Room.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Room.py)
 
 
 Create Honeybee Room from Honeybee Faces. 

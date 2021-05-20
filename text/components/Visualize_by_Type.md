@@ -2,7 +2,7 @@
 
 ![](../../images/components/Visualize_by_Type.png)
 
-![](../../images/icons/Visualize_by_Type.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Visualize%20by%20Type.py)
+![](../../images/icons/Visualize_by_Type.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Visualize%20by%20Type.py)
 
 
 Visualize room geometry in the Rhino scene organized by object and face type. 

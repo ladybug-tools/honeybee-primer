@@ -2,7 +2,7 @@
 
 ![](../../images/components/Solve_Adjacency.png)
 
-![](../../images/icons/Solve_Adjacency.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Solve%20Adjacency.py)
+![](../../images/icons/Solve_Adjacency.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Solve%20Adjacency.py)
 
 
 Solve adjacencies between a series of honeybee Rooms. 

@@ -2,7 +2,7 @@
 
 ![](../../images/components/Rooms_by_Orientation.png)
 
-![](../../images/icons/Rooms_by_Orientation.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Rooms%20by%20Orientation.py)
+![](../../images/icons/Rooms_by_Orientation.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Rooms%20by%20Orientation.py)
 
 
 Separate and group honeybee rooms with the same average orientation of walls with an Outdoors boundary condition. 

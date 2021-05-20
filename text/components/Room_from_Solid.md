@@ -2,7 +2,7 @@
 
 ![](../../images/components/Room_from_Solid.png)
 
-![](../../images/icons/Room_from_Solid.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/ladybug_grasshopper/src//HB%20Room%20from%20Solid.py)
+![](../../images/icons/Room_from_Solid.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Room%20from%20Solid.py)
 
 
 Create Honeybee Rooms from solids (closed Rhino polysurfaces). 
