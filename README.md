@@ -1,15 +1,30 @@
 # honeybee-primer
 
-![logo](https://raw.githubusercontent.com/ladybug-tools/ladybug-tools.github.io/307802cc06cc0c6f49051a9b0f3cea3cd935a3b1/images/graph/honeybee.png)
+![Honeybee](https://github.com/ladybug-tools/artwork/raw/master/icons_bugs/grasshopper_tabs/small/Honeybee.png)
 
-This primer provides an overview of the honeybee plugin components for Grasshopper and Dynamo.
+This primer provides an overview of the core Honeybee components for Grasshopper.
 
-Check [honeybee-grasshopper](https://github.com/ladybug-tools/honeybee-grasshopper) and [honeybee-dynamo](https://github.com/ladybug-tools/honeybee-dynamo) for installation instructions and more.
+Note that these docs are only for the components that are shared across all Honeybee
+extensions. These shared components include those that build honeybee models
+from raw geometry, visualize their properties, and serialize them into various
+file formats. For all attributes and simulation capabilities that are specific
+to a given simulation engine, please see the docs for those particular extensions.
 
-This document is generated automatically from the components. Please [let us know](https://github.com/ladybug-tools/honeybee/issues) if you find any mistakes in grammar or spelling.
+Here are the docs for the most common honeybee-grasshopper plugin extensions:
 
-Post your questions to [Ladybug Tools forum](http://discourse.ladybug.tools)!
+* [honeybee-grasshopper-radiance](https://docs.ladybug.tools/hb-radiance-primer/)
+* [honeybee-grasshopper-energy](https://github.com/ladybug-tools/hb-energy-primer)
 
-*Follow ladybug tools on [twitter](https://twitter.com/ladybug_tools) or [facebook](https://www.facebook.com/LadybugTools/).*
+### Installation
 
-### For the legacy version check [this link](https://mostapharoudsari.gitbooks.io/honeybee-primer/content/).
+See the [Wiki of the lbt-grasshopper repository](https://github.com/ladybug-tools/lbt-grasshopper/wiki)
+for the installation instructions for the entire Ladybug Tools Grasshopper plugin (including honeybee-grasshopper-core).
+
+### Resources
+
+Post your questions to [Ladybug Tools forum](http://discourse.ladybug.tools) and
+see the [honeybee-grasshopper-core](https://github.com/ladybug-tools/honeybee-grasshopper-core)
+repository for source code.
+
+Please [let us know](https://github.com/ladybug-tools/honeybee-grasshopper-core/issues)
+if you find any mistakes in grammar or spelling in this primer and we will gladly fix them.
