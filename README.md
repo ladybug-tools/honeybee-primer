@@ -4,7 +4,7 @@
 
 This primer provides an overview of the core Honeybee components for Grasshopper.
 
-Note that these docs are only for the components that are shared across all Honeybee extensions. These shared components include those that build honeybee models from raw geometry, visualize their properties, and serialize them into various file formats. For all attributes and simulation capabilities that are specific to a given simulation engine, please see the docs for those particular extensions.
+Note that these docs are only for the core components that are shared across all Honeybee extensions and simulation engines. These shared components include those that build honeybee models from raw geometry, visualize their properties, and serialize them into various file formats. For all attributes and simulation capabilities that are specific to a given simulation engine, please see the docs for those particular extensions.
 
 Here are the docs for the most common honeybee-grasshopper plugin extensions:
 
