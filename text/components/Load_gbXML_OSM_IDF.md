@@ -1,8 +1,8 @@
-## Load gbXML
+## Load gbXML OSM IDF
 
-![](../../images/components/Load_gbXML.png)
+![](../../images/components/Load_gbXML_OSM_IDF.png)
 
-![](../../images/icons/Load_gbXML.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Load%20gbXML.py)
+![](../../images/icons/Load_gbXML_OSM_IDF.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Load%20gbXML%20OSM%20IDF.py)
 
 
 Load a gbXML, OSM, or IDF file as a Honeybee Model. 
@@ -14,7 +14,7 @@ Note that, while all geometry will be imported, it is possible that not all of t
 
 
 #### Inputs
-* ##### gbxml [Required]
+* ##### model_file [Required]
 A file path to a gbXML, OSM or IDF file from which a Honeybee Model will be loaded 
 * ##### load [Required]
 Set to "True" to load the Model from the input file. 
