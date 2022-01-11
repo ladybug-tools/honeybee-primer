@@ -30,3 +30,4 @@
 * ![IMAGE](../../images/icons/Set_Identifier.png) [Set Identifier](../components/Set_Identifier.md)
 * ![IMAGE](../../images/icons/Set_Multiplier.png) [Set Multiplier](../components/Set_Multiplier.md)
 * ![IMAGE](../../images/icons/Set_Story.png) [Set Story](../components/Set_Story.md)
+* ![IMAGE](../../images/icons/Straight_Skeleton.png) [Straight Skeleton](../components/Straight_Skeleton.md)

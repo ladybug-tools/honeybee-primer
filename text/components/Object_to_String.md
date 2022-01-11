@@ -7,9 +7,7 @@
 
 Serialize any honeybee object to a JSON text string. You can use "HB String to Object" component to load the objects from the file back. 
 
-Honeybee objects include any Model, Room, Face, Aperture, Door, Shade, or boundary condition object. 
-
-It also includes any honeybee energy Material, Construction, ConstructionSet, Schedule, Load, ProgramType, or Simulation object. 
+Honeybee objects include any honeybee energy Material, Construction, ConstructionSet, Schedule, Load, ProgramType, or Simulation object. 
 
 
 

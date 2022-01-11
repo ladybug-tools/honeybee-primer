@@ -6,5 +6,5 @@
 * ![IMAGE](../../images/icons/Dump_Compressed_Objects.png) [Dump Compressed Objects](../components/Dump_Compressed_Objects.md)
 * ![IMAGE](../../images/icons/Load_Compressed_Objects.png) [Load Compressed Objects](../components/Load_Compressed_Objects.md)
 * ![IMAGE](../../images/icons/Dump_gbXML.png) [Dump gbXML](../components/Dump_gbXML.md)
-* ![IMAGE](../../images/icons/Load_gbXML.png) [Load gbXML](../components/Load_gbXML.md)
+* ![IMAGE](../../images/icons/Load_gbXML_OSM_IDF.png) [Load gbXML OSM IDF](../components/Load_gbXML_OSM_IDF.md)
 * ![IMAGE](../../images/icons/Update_HBJSON.png) [Update HBJSON](../components/Update_HBJSON.md)
