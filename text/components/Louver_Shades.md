@@ -32,6 +32,8 @@ Optional boolean to note whether the side the louvers start from should be flipp
 Optional boolean for whether louvers should be generated facing the opposite direction of the aperture normal and added to the Aperture's indoor_shades instead of outdoor_shades. If an array of values are input here, different indoor booleans will be assigned based on cardinal direction, starting with north and moving clockwise. Note that, by default, indoor shades are not used in energy simulations but they are used in all simulations involving Radiance. (Default: False). 
 * ##### ep_constr 
 Optional Honeybee ShadeConstruction to be applied to the input _hb_objs. This can also be text for a construction to be looked up in the shade construction library. If an array of text or construction objects are input here, different constructions will be assigned based on cardinal direction, starting with north and moving clockwise. 
+* ##### ep_trans_sch 
+Optional schedule for the transmittance to be applied to the input _hb_objs in energy simulation. If no energy schedule is input here, the default will be always opaque. 
 * ##### rad_mod 
 Optional Honeybee Modifier to be applied to the input _hb_objs. This can also be text for a modifier to be looked up in the shade modifier library. If an array of text or modifier objects are input here, different modifiers will be assigned based on cardinal direction, starting with north and moving clockwise. 
 

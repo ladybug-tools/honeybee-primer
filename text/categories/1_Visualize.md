@@ -13,3 +13,4 @@
 * ![IMAGE](../../images/icons/Visualize_by_Type.png) [Visualize by Type](../components/Visualize_by_Type.md)
 * ![IMAGE](../../images/icons/Check_Versions.png) [Check Versions](../components/Check_Versions.md)
 * ![IMAGE](../../images/icons/Config.png) [Config](../components/Config.md)
+* ![IMAGE](../../images/icons/Geometry_Properties.png) [Geometry Properties](../components/Geometry_Properties.md)
