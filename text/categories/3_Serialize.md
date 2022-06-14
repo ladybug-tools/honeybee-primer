@@ -8,3 +8,4 @@
 * ![IMAGE](../../images/icons/Dump_gbXML.png) [Dump gbXML](../components/Dump_gbXML.md)
 * ![IMAGE](../../images/icons/Load_gbXML_OSM_IDF.png) [Load gbXML OSM IDF](../components/Load_gbXML_OSM_IDF.md)
 * ![IMAGE](../../images/icons/Update_HBJSON.png) [Update HBJSON](../components/Update_HBJSON.md)
+* ![IMAGE](../../images/icons/Validate_Model.png) [Validate Model](../components/Validate_Model.md)

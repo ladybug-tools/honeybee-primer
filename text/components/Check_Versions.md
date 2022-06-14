@@ -12,11 +12,13 @@ Check the versions of the engines that are being used by the honeybee plugin. Th
 #### Inputs
 
 #### Outputs
+* ##### lbt_gh
+The version of Ladybug Tools for Grasshopper that is installed. 
 * ##### python
 The version of Python used for Ladybug Tools CLI calls. 
 * ##### radiance
-The version of Radiance if it is installed. 
+The version of Radiance used by Ladybug Tools (will be None if it is not installed). 
 * ##### openstudio
-The version of OpenStudio if it is installed. 
+The version of OpenStudio used by Ladybug Tools (will be None if it is not installed). 
 * ##### energyplus
-The version of EnergyPlus if it is installed. 
+The version of EnergyPlus used by Ladybug Tools (will be None if it is not installed). 
