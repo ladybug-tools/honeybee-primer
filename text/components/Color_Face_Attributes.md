@@ -30,3 +30,5 @@ A list of lines representing the outlines of the _hb_objs.
 A list of values noting the attribute assigned to each face/sub-face. 
 * ##### colors
 A list of colors noting the color of each face/sub-face in the Rhino scene. This can be used in conjunction with the native Grasshopper "Custom Preview" component to create custom visualizations in the Rhino scene. 
+* ##### vis_set
+An object containing VisualizationSet arguments for drawing a detailed version of the ColorRoom in the Rhino scene. This can be connected to the "LB Preview Visualization Set" component to display this version of the visualization in Rhino. 

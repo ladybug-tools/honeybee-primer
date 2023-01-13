@@ -18,6 +18,8 @@ Note that this component will not intersect the Faces with the ground surface an
 Honeybee Rooms which will have their Face boundary conditions set based on their spatial relation to the _ground geometry below. 
 * ##### ground [Required]
 Rhino Breps or Meshes that represent the Ground. 
+* ##### reset 
+A Boolean to note whether the _ground geometry simply adds additional ground boundary conditions to the _rooms (False) or it resets all existing ground boundary conditions to only exist at or below the _ground geometry (True). (Default: False). 
 
 #### Outputs
 * ##### rooms

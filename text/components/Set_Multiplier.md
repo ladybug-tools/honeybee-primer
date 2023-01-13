@@ -7,7 +7,7 @@
 
 Change the multiplier of a honeybee Room. 
 
-Multipliers are used to speed up the calculation when similar Rooms are repeated more than once. Essentially, a given simulation with the Room is run once and then the result is mutliplied by the multiplier. This means that the "repetition" isn't in a particualr direction (it's essentially in the exact same location) and this comes with some inaccuracy. However, this error might not be too large if the Rooms are similar enough and it can often be worth it since it can greatly speed up the calculation. 
+Multipliers are used to speed up the calculation when similar Rooms are repeated more than once. Essentially, a given simulation with the Room is run once and then the result is multiplied by the multiplier. This means that the "repetition" isn't in a particular direction (it's essentially in the exact same location) and this comes with some inaccuracy. However, this error might not be too large if the Rooms are similar enough and it can often be worth it since it can greatly speed up the calculation. 
 
 
 
