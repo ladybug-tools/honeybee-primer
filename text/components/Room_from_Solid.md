@@ -25,7 +25,7 @@ Text for the program of the Rooms (to be looked up in the ProgramType library) s
 * ##### conditioned 
 Boolean to note whether the Rooms have heating and cooling systems. 
 * ##### roof_angle 
-A number between 0 and 90 to set the angle from the horizontal plane below which faces will be considered roofs or floors instead of walls. 90 indicates that all vertical faces are roofs and 0 indicates that all horizotnal faces are walls. The default value of 60 degrees is the recommended value given by the ASHRAE 90.1 standard. (Default: 60). 
+A number between 0 and 90 to set the angle from the horizontal plane below which faces will be considered roofs or floors instead of walls. 90 indicates that all vertical faces are roofs and 0 indicates that all horizontal faces are walls. The default value of 60 degrees is the recommended value given by the ASHRAE 90.1 standard. (Default: 60). 
 
 #### Outputs
 * ##### report

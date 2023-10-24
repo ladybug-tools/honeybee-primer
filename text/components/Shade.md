@@ -5,7 +5,7 @@
 ![](../../images/icons/Shade.png) - [[source code]](https://github.com/ladybug-tools/honeybee-grasshopper-core/blob/master/honeybee_grasshopper_core/src//HB%20Shade.py)
 
 
-Create Honeybee Shade 
+Create Honeybee Shade. 
 
 
 
