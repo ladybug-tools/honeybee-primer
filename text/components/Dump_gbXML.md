@@ -20,6 +20,8 @@ A Honeybee Model object to be written to a gbXML file.
 A name for the file to which the honeybee objects will be written. If unspecified, it will be derived from the model identifier. 
 * ##### folder 
 An optional directory into which the honeybee objects will be written.  The default is set to the default simulation folder. 
+* ##### int_floors 
+A boolean to note whether all interior horizontal faces should be written with the InteriorFloor type instead of the combination of InteriorFloor and Ceiling that happens by default with OpenStudio gbXML serialization. (Default: False). 
 * ##### triangulate 
 Boolean to note whether sub-faces (including Apertures and Doors) should be triangulated if they have more than 4 sides (True) or whether they should be left as they are (False). This triangulation is necessary when exporting directly to EnergyPlus since it cannot accept sub-faces with more than 4 vertices. However, it is not a general requirement of gbXML or all of the simulation engines that gbXML can import to/from. (Default: False). 
 * ##### full_geo 

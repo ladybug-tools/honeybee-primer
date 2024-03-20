@@ -13,7 +13,7 @@ This can be used to group faces by construction, modifier, etc.
 
 #### Inputs
 * ##### hb_objs [Required]
-An array of honeybee Rooms, Faces, Apertures, Doors or Shades to be colored with their attributes in the Rhino scene. 
+An array of honeybee Rooms, Faces, Apertures, Doors or Shades to be separated by their attributes in the Rhino scene. 
 * ##### attribute [Required]
 Text for the name of the Face attribute with which the Faces should be labeled. The Honeybee "Face Attributes" component lists all of the core attributes of the room. Also, each Honeybee extension (ie. Radiance, Energy) includes its own component that lists the Face attributes of that extension. 
 

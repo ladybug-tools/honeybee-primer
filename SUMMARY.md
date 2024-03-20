@@ -31,6 +31,7 @@
 		* [Visualize Recipe Execution](text/components/Visualize_Recipe_Execution.md)
 		* [Add Prefix](text/components/Add_Prefix.md)
 		* [Apertures by Guide Surface](text/components/Apertures_by_Guide_Surface.md)
+		* [Apertures by Width Height](text/components/Apertures_by_Width_Height.md)
 		* [Custom Ground](text/components/Custom_Ground.md)
 		* [Set Identifier](text/components/Set_Identifier.md)
 		* [Set Multiplier](text/components/Set_Multiplier.md)

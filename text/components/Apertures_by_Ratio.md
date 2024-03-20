@@ -13,7 +13,7 @@ Note that this component will only add Apertures to Faces that are Walls and hav
 
 #### Inputs
 * ##### hb_objs [Required]
-A list of honeybee Rooms or Faces to which Apertures will be added based on the inputs. 
+A list of honeybee Rooms or Faces to which Apertures will be added based on the inputs. This can also be an entire honeybee Model for which all Rooms will have Apertures assigned. 
 * ##### ratio [Required]
 A number between 0 and 0.95 for the ratio between the area of the apertures and the area of the parent face. If an array of values are input here, different ratios will be assigned based on cardinal direction, starting with north and moving clockwise. 
 * ##### subdivide 
@@ -33,4 +33,4 @@ An optional boolean to note whether the generated Apertures can be opened for ve
 * ##### report
 Reports, errors, warnings, etc. 
 * ##### hb_objs
-The input Honeybee Face or Room with Apertures generated from the input parameters. 
+The input Honeybee Face, Room or Model with Apertures generated from the input parameters. 
