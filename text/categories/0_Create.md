@@ -27,6 +27,7 @@
 * ![IMAGE](../../images/icons/Visualize_Recipe_Execution.png) [Visualize Recipe Execution](../components/Visualize_Recipe_Execution.md)
 * ![IMAGE](../../images/icons/Add_Prefix.png) [Add Prefix](../components/Add_Prefix.md)
 * ![IMAGE](../../images/icons/Apertures_by_Guide_Surface.png) [Apertures by Guide Surface](../components/Apertures_by_Guide_Surface.md)
+* ![IMAGE](../../images/icons/Apertures_by_Width_Height.png) [Apertures by Width Height](../components/Apertures_by_Width_Height.md)
 * ![IMAGE](../../images/icons/Custom_Ground.png) [Custom Ground](../components/Custom_Ground.md)
 * ![IMAGE](../../images/icons/Set_Identifier.png) [Set Identifier](../components/Set_Identifier.md)
 * ![IMAGE](../../images/icons/Set_Multiplier.png) [Set Multiplier](../components/Set_Multiplier.md)

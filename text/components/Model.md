@@ -15,7 +15,7 @@ A list of honeybee Rooms to be added to the Model. Note that at least one Room i
 * ##### faces 
 A list of honeybee Faces to be added to the Model. Note that faces without a parent Room are not allowed for energy models. 
 * ##### shades 
-A list of honeybee Shades to be added to the Model. 
+A list of honeybee Shades or ShadeMeshes to be added to the Model. 
 * ##### apertures 
 A list of honeybee Apertures to be added to the Model. Note that apertures without a parent Face are not allowed for energy models. 
 * ##### doors 
