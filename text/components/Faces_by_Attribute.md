@@ -16,6 +16,8 @@ This can be used to group faces by construction, modifier, etc.
 An array of honeybee Rooms, Faces, Apertures, Doors or Shades to be separated by their attributes in the Rhino scene. 
 * ##### attribute [Required]
 Text for the name of the Face attribute with which the Faces should be labeled. The Honeybee "Face Attributes" component lists all of the core attributes of the room. Also, each Honeybee extension (ie. Radiance, Energy) includes its own component that lists the Face attributes of that extension. 
+* ##### value 
+An optional value of the attribute that can be used to filter the output rooms. For example, if the input attribute is "Azimuth" a value for the orientation of the Face can be plugged in here (eg. "180" for south-facing) in order to get Faces with only this oreintation. 
 
 #### Outputs
 * ##### values

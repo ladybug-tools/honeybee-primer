@@ -18,6 +18,8 @@ Note that this component only changes the identifer of the input _hb_obj and non
 Any honeybee-core object (eg. Room, Face, Shade, Aperture) or any honeybee extension object (eg. energy construction, radiance modifier) for which the identifier should be changed. 
 * ##### id [Required]
 Text for the identifier of the object. Note that, if this identifier does not conform to acceptable values of the object type (eg. no spaces for a radiance modifier id), then an exception will be thrown. 
+* ##### name 
+An optional text string to set the name of the object to something other than the identifier. 
 
 #### Outputs
 * ##### hb_obj
