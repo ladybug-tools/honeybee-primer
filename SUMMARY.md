@@ -56,6 +56,7 @@
 		* [Visualize by Type](text/components/Visualize_by_Type.md)
 		* [Check Versions](text/components/Check_Versions.md)
 		* [Config](text/components/Config.md)
+		* [Envelope Edges](text/components/Envelope_Edges.md)
 		* [Geometry Properties](text/components/Geometry_Properties.md)
 	* [2 :: Organize](text/categories/2_Organize.md)
 		* [Faces by Attribute](text/components/Faces_by_Attribute.md)
